@@ -45,4 +45,4 @@ detalhista no desenvolvimento sem duvida nhenhuma trás maior liberdade e otimiz
 Geralmente pensamos que varios _ifs e elses_ já resolvem nossos problemas, mas deixamos muitas responsabilidades em um unico lugar.
 
 ## Contato:
-[Linkedin](https://www.linkedin.com/in/fabioneresdejesus)
+[Fábio Neres](https://www.linkedin.com/in/fabioneresdejesus)
