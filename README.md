@@ -6,11 +6,20 @@ Projeto desenvolvido no **Bootcamp Take Blip Web Developer/DigitalInnovation**.
 #### [@denilsonbonatti](https://github.com/denilsonbonatti)
 
 ## 🛠️ Ferramentas utilizadas:
+- Vercel
 - HTML
 - CSS
 - JavaScript
 - JQuery
 - JQuery-Collision
+
+## Vercel
+>Vercel é uma plataforma para frameworks de front-end e sites estáticos , construída para se integrar ao seu conteúdo headless, comércio ou banco de dados.
+>
+>Fornecemos uma experiência de desenvolvedor sem atritos para cuidar das coisas difíceis: implantar instantaneamente, dimensionar automaticamente e fornecer conteúdo personalizado em todo o mundo.
+>
+>Facilitamos para as equipes de front-end desenvolver, visualizar e fornecer experiências de usuário agradáveis, onde o desempenho é o padrão.
+
 
 ## JQuery
 >jQuery é uma biblioteca de funções JavaScript que interage com o HTML, desenvolvida para simplificar os scripts interpretados no navegador do cliente. Usada por cerca de 74.4% dos 10 mil sites mais visitados do mundo, jQuery é a mais popular das bibliotecas JavaScript. [Wikipédia](https://pt.wikipedia.org/wiki/JQuery)
@@ -43,6 +52,8 @@ impacta e muito nos projetos.
 Também me atentei nas divisões de tarefas das funções de cada personagem, precisamente estou falando do BACK-END, ter um olhar mais 
 detalhista no desenvolvimento sem duvida nhenhuma trás maior liberdade e otimização de projeto.
 Geralmente pensamos que varios _ifs e elses_ já resolvem nossos problemas, mas deixamos muitas responsabilidades em um unico lugar.
+
+## ▶️ [Quero Jogar](https://game-dio-resgate.vercel.app/)
 
 ## Contato:
 [Fábio Neres](https://www.linkedin.com/in/fabioneresdejesus)
